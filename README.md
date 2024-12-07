@@ -66,6 +66,7 @@ The Titanic Dataset Analysis project aims to extract meaningful insights about p
 Follow these steps to run the project:
 -Clone the Repository
 Clone this GitHub repository to your local machine using the following command:
+'https://github.com/Tmuley/Revisit_to_titanic-python-'
 
 
 -Navigate to the Project Directory
